@@ -1,0 +1,11 @@
+POST http://127.0.0.1:5000/api/predict_home_price
+Content-Type: application/json
+
+{
+  "total_sqft": 1525,
+  "bhk": 3,
+  "bath": 3,
+  "location": "electronics city"
+}
+
+
