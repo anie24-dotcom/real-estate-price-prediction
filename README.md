@@ -23,3 +23,5 @@ Select the number of BHK and bathrooms.
 Choose the location of the property from the dropdown list.
 Click on the Estimate Price button to see the predicted price of the property.
 
+![image](https://github.com/user-attachments/assets/1c483434-9065-4ea8-ad73-1843281545e5)
+
