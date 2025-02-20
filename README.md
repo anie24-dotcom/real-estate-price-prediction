@@ -22,7 +22,7 @@ Enter the area of the property in square feet.
 Select the number of BHK and bathrooms.
 Choose the location of the property from the dropdown list.
 Click on the Estimate Price button to see the predicted price of the property.
-file:///C:/Users/gupta/OneDrive/Desktop/RealEstatePricePrediction/template/app.html (this is my url to the project)
+
 
 ![image](https://github.com/user-attachments/assets/95790403-f5a1-4ebf-849b-1cda6e943e5b)
 
